@@ -25,3 +25,7 @@
   font-variation-settings:
     "wdth" 100;
 }
+.profile-img {
+    height: 180px;
+    border-radius: 50%;
+  }
