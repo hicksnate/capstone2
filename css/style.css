@@ -1,5 +1,5 @@
 .title-background{
-    background-color: #729762
+    background-color:#C9DABF
     
 }
 /*/ <uniquifier>: Use a unique and descriptive class name
@@ -34,4 +34,7 @@
     height: 4rem;
     border-radius: .75rem;
     
+}
+.footer-background{
+    background-color:#808D7C;
 }
