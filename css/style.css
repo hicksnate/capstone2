@@ -1,0 +1,27 @@
+.title-background{
+    background-color: #729762
+    
+}
+/*/ <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900
+*/
+.noto-serif-font {
+  font-family: "Noto Serif", serif;
+  font-optical-sizing:auto;
+  font-weight:bolder;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+ /*/ <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 300 to 800
+*/
+.open-sans-font {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
