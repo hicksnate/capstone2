@@ -1,5 +1,5 @@
 .title-background{
-    background-color:#C9DABF
+    background-color:#9CA986
     
 }
 /*/ <uniquifier>: Use a unique and descriptive class name
@@ -37,4 +37,7 @@
 }
 .footer-background{
     background-color:#808D7C;
+}
+.featurette-background{
+    background-color: #C9DABF;
 }
